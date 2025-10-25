@@ -1,0 +1,15 @@
+/Users/zarifababayeva/Desktop/c#/Class/ClassMethod/bin/Debug/net8.0/ClassMethod
+/Users/zarifababayeva/Desktop/c#/Class/ClassMethod/bin/Debug/net8.0/ClassMethod.deps.json
+/Users/zarifababayeva/Desktop/c#/Class/ClassMethod/bin/Debug/net8.0/ClassMethod.runtimeconfig.json
+/Users/zarifababayeva/Desktop/c#/Class/ClassMethod/bin/Debug/net8.0/ClassMethod.dll
+/Users/zarifababayeva/Desktop/c#/Class/ClassMethod/bin/Debug/net8.0/ClassMethod.pdb
+/Users/zarifababayeva/Desktop/c#/Class/ClassMethod/obj/Debug/net8.0/ClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zarifababayeva/Desktop/c#/Class/ClassMethod/obj/Debug/net8.0/ClassMethod.AssemblyInfoInputs.cache
+/Users/zarifababayeva/Desktop/c#/Class/ClassMethod/obj/Debug/net8.0/ClassMethod.AssemblyInfo.cs
+/Users/zarifababayeva/Desktop/c#/Class/ClassMethod/obj/Debug/net8.0/ClassMethod.csproj.CoreCompileInputs.cache
+/Users/zarifababayeva/Desktop/c#/Class/ClassMethod/obj/Debug/net8.0/ClassMethod.sourcelink.json
+/Users/zarifababayeva/Desktop/c#/Class/ClassMethod/obj/Debug/net8.0/ClassMethod.dll
+/Users/zarifababayeva/Desktop/c#/Class/ClassMethod/obj/Debug/net8.0/refint/ClassMethod.dll
+/Users/zarifababayeva/Desktop/c#/Class/ClassMethod/obj/Debug/net8.0/ClassMethod.pdb
+/Users/zarifababayeva/Desktop/c#/Class/ClassMethod/obj/Debug/net8.0/ClassMethod.genruntimeconfig.cache
+/Users/zarifababayeva/Desktop/c#/Class/ClassMethod/obj/Debug/net8.0/ref/ClassMethod.dll
