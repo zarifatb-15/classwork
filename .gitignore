@@ -1,0 +1,10 @@
+.idea/
+.vs/
+bin/
+obj/
+.DS_Store
+*.user
+*.suo
+*.log
+*.nupkg
+*.snupkg
