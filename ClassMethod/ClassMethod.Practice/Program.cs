@@ -12,6 +12,13 @@ class Program
         // {
         //     Console.WriteLine(item);
         // }
+        // Console.WriteLine(Factorial(3));
+        int[] numbers = {2,3,4 };
+        int [] result=FactorialArray(numbers);
+        foreach (int num in result)
+        {
+            Console.WriteLine(num);
+        }
     }
 
     static int SumOfArrayElements(int[] array)
@@ -43,4 +50,21 @@ class Program
         newArray[newArray.Length-1] = num;
         return newArray;
     }
+
+    static int Factorial(int num)
+    {
+        int result = 1;
+        for (int i=1; i<=num; i++)
+            result *= i;
+            return result;
+    }
+
+    static int[] FactorialArray(int[] array)
+    {
+        for (int i=0; i<array.Length; i++)
+              array[i]=Factorial(array[i]);
+        return array;
+    }
+    
+    
 }
